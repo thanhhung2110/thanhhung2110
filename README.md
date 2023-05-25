@@ -1,10 +1,6 @@
 <h1 align="center">🚀 Awesome Project</h1>
 
 <p align="center">
-  <img src="https://your-cool-icon-image.png" alt="Icon" width="100">
-</p>
-
-<p align="center">
   An awesome project that does amazing things.
 </p>
 
