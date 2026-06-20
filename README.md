@@ -80,31 +80,6 @@ flowchart LR
 ```
 
 ---
-
-## 🚀 Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[GIO_NCKH](https://github.com/thanhhung2110/GIO_NCKH)** | Web app to declare & compute research-hours (UEL M1 form) — live on GitHub Pages | `React` `HTML` |
-| **[DE-ETL](https://github.com/thanhhung2110/DE-ETL)** | Data Engineering ETL workflows | `Python` `SQL` |
-| **[Dashboard](https://github.com/thanhhung2110/Dashboard)** | Interactive analytics dashboard | `HTML` `JS` |
-| **[Case-Challenge](https://github.com/thanhhung2110/Case-Challenge)** | Loyalty-program ("Momo hoàn tiền") analytics case study | `Jupyter` |
-| **[Customer-Traffic](https://github.com/thanhhung2110/Customer-Traffic)** | Retail customer-traffic analysis across stores | `Jupyter` |
-| **[SQL](https://github.com/thanhhung2110/SQL)** | Marketing analytics SQL problem set | `SQL` |
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thanhhung2110&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=36BCF7&icon_color=36BCF7" alt="stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhhung2110&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=36BCF7&langs_count=8" alt="top langs"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=thanhhung2110&theme=tokyonight&hide_border=true&background=0F2027&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="streak"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanhhung2110&theme=tokyo-night&bg_color=0F2027&color=36BCF7&line=36BCF7&point=ffffff&hide_border=true&area=true" alt="activity graph"/>
 </p>
