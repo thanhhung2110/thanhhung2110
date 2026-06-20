@@ -39,6 +39,26 @@ class DataEngineer:
 
 ---
 
+## ⚡ Live Data Pipeline
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/thanhhung2110/thanhhung2110/main/assets/pipeline.svg" alt="animated data engineering pipeline"/>
+</p>
+
+> Data packets flow in real time through each stage — from raw **sources** to actionable **insights**.
+
+---
+
+## 🧠 AI / Machine Learning
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/thanhhung2110/thanhhung2110/main/assets/neural.svg" alt="animated neural network"/>
+</p>
+
+> Signals propagate layer by layer — turning features into predictions.
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -58,28 +78,30 @@ class DataEngineer:
 
 ---
 
-## 🔄 My Data Pipeline
+## 🚀 Featured Projects
 
-```mermaid
-flowchart LR
-    A[("🌐 Sources<br/>APIs · CSV · Web · DB")]:::src --> B["⚙️ Ingestion<br/>Python · Scripts"]:::ing
-    B --> C[("🗄️ Raw / Data Lake")]:::store
-    C --> D["🧪 Transform / ETL<br/>SQL · Pandas"]:::etl
-    D --> E[("🏛️ Data Warehouse")]:::store
-    E --> F{"🔎 Analytics & ML<br/>scikit-learn · Stats"}:::ml
-    F --> G["📊 Serving<br/>Dashboards · Django · Pages"]:::serve
-    G --> H((("👥 Stakeholders<br/>Decisions"))):::out
-
-    classDef src    fill:#0F2027,stroke:#36BCF7,stroke-width:2px,color:#fff;
-    classDef ing    fill:#203A43,stroke:#36BCF7,stroke-width:2px,color:#fff;
-    classDef store  fill:#2C5364,stroke:#36BCF7,stroke-width:2px,color:#fff;
-    classDef etl    fill:#1b4965,stroke:#5fa8d3,stroke-width:2px,color:#fff;
-    classDef ml     fill:#3a0ca3,stroke:#b5179e,stroke-width:2px,color:#fff;
-    classDef serve  fill:#06623b,stroke:#21d07a,stroke-width:2px,color:#fff;
-    classDef out    fill:#9d0208,stroke:#ffba08,stroke-width:2px,color:#fff;
-```
+| Project | What it does | Stack |
+|---|---|---|
+| **[GIO_NCKH](https://github.com/thanhhung2110/GIO_NCKH)** | Web app to declare & compute research-hours (UEL M1 form) — live on GitHub Pages | `React` `HTML` |
+| **[DE-ETL](https://github.com/thanhhung2110/DE-ETL)** | Data Engineering ETL workflows | `Python` `SQL` |
+| **[Dashboard](https://github.com/thanhhung2110/Dashboard)** | Interactive analytics dashboard | `HTML` `JS` |
+| **[Case-Challenge](https://github.com/thanhhung2110/Case-Challenge)** | Loyalty-program ("Momo hoàn tiền") analytics case study | `Jupyter` |
+| **[Customer-Traffic](https://github.com/thanhhung2110/Customer-Traffic)** | Retail customer-traffic analysis across stores | `Jupyter` |
+| **[SQL](https://github.com/thanhhung2110/SQL)** | Marketing analytics SQL problem set | `SQL` |
 
 ---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thanhhung2110&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=36BCF7&icon_color=36BCF7" alt="stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhhung2110&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=36BCF7&langs_count=8" alt="top langs"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=thanhhung2110&theme=tokyonight&hide_border=true&background=0F2027&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="streak"/>
+</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanhhung2110&theme=tokyo-night&bg_color=0F2027&color=36BCF7&line=36BCF7&point=ffffff&hide_border=true&area=true" alt="activity graph"/>
 </p>
