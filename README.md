@@ -32,13 +32,6 @@ class DataEngineer:
         return "Designing end-to-end data pipelines: raw data → insights"
 ```
 
-- 🔭 I build **data pipelines** that move data from messy sources to clean, decision-ready insights.
-- 🧱 Comfortable across the stack: **ingestion → transformation → warehousing → analytics → serving**.
-- 📊 I turn business questions into **SQL, notebooks, and dashboards**.
-- 🌱 Always learning — currently sharpening **Data Engineering & ML** skills.
-
----
-
 ## ⚡ Live Data Pipeline
 
 <p align="center">
