@@ -23,9 +23,9 @@
 class DataEngineer:
     def __init__(self):
         self.name        = "VTHung"
-        self.role        = "Data Engineer & Analyst"
+        self.role        = "Data Science"
         self.location    = "Ho Chi Minh City, Vietnam"
-        self.focus       = ["ETL pipelines", "Data modeling", "Analytics", "ML"]
+        self.focus       = ["Data Engineer", "Data Mining", "Natural Language Processing", "Machine Learning"]
         self.mission     = "Unlock the potential of data, together."
 
     def current_work(self):
@@ -78,18 +78,6 @@ class DataEngineer:
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[GIO_NCKH](https://github.com/thanhhung2110/GIO_NCKH)** | Web app to declare & compute research-hours (UEL M1 form) — live on GitHub Pages | `React` `HTML` |
-| **[DE-ETL](https://github.com/thanhhung2110/DE-ETL)** | Data Engineering ETL workflows | `Python` `SQL` |
-| **[Dashboard](https://github.com/thanhhung2110/Dashboard)** | Interactive analytics dashboard | `HTML` `JS` |
-| **[Case-Challenge](https://github.com/thanhhung2110/Case-Challenge)** | Loyalty-program ("Momo hoàn tiền") analytics case study | `Jupyter` |
-| **[Customer-Traffic](https://github.com/thanhhung2110/Customer-Traffic)** | Retail customer-traffic analysis across stores | `Jupyter` |
-| **[SQL](https://github.com/thanhhung2110/SQL)** | Marketing analytics SQL problem set | `SQL` |
-
----
 
 ## 📈 GitHub Analytics
 
